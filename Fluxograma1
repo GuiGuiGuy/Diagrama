@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Incio&lt;/div&gt;" vertex="1">
+        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Incio&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="354" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ler P1,P2,P3,P4&lt;/div&gt;" vertex="1">
+        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ler P1,P2,P3,P4&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="225" as="geometry" />
         </mxCell>
         <mxCell id="rKaD-b6Nej4JjWdK3Ar2-19" edge="1" parent="1" source="rKaD-b6Nej4JjWdK3Ar2-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rKaD-b6Nej4JjWdK3Ar2-18" value="">
@@ -16,13 +16,13 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Media= (P1+P2+P3+P4)/4" vertex="1">
+        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Media= (P1+P2+P3+P4)/4" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="375" as="geometry" />
         </mxCell>
-        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultado da Media&lt;/div&gt;" vertex="1">
+        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Resultado da Media&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="518" as="geometry" />
         </mxCell>
-        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fim&lt;/div&gt;" vertex="1">
+        <mxCell id="rKaD-b6Nej4JjWdK3Ar2-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fim&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="354" y="660" as="geometry" />
         </mxCell>
         <mxCell id="rKaD-b6Nej4JjWdK3Ar2-24" edge="1" parent="1" source="rKaD-b6Nej4JjWdK3Ar2-18" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rKaD-b6Nej4JjWdK3Ar2-21" value="">
