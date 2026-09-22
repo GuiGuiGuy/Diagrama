@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Kvy_-Yl6ZlmZ5r3Ab_wf">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-4" edge="1" parent="1" source="LZoWjzOeUA_ez-MxtoEQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LZoWjzOeUA_ez-MxtoEQ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Incío&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fim&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-6" edge="1" parent="1" source="LZoWjzOeUA_ez-MxtoEQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LZoWjzOeUA_ez-MxtoEQ-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;br&gt;Ler P1,P2,LI" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-8" edge="1" parent="1" source="LZoWjzOeUA_ez-MxtoEQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LZoWjzOeUA_ez-MxtoEQ-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="l100=LI*100(P1-P2)" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-9" edge="1" parent="1" source="LZoWjzOeUA_ez-MxtoEQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LZoWjzOeUA_ez-MxtoEQ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZoWjzOeUA_ez-MxtoEQ-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;P3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
