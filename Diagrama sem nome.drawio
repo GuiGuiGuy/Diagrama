@@ -213,6 +213,21 @@
         <mxCell id="-5JqvEhSrivZi-c0OQ5a-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Media=Soma/Contador" vertex="1">
           <mxGeometry height="60" width="120" x="2970" y="820" as="geometry" />
         </mxCell>
+        <mxCell id="-5JqvEhSrivZi-c0OQ5a-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Incío&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="4900" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-5JqvEhSrivZi-c0OQ5a-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contador=0&lt;div&gt;Soma=0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="4900" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-5JqvEhSrivZi-c0OQ5a-52" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ler P1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="4900" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="-5JqvEhSrivZi-c0OQ5a-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contador=Contador+1&lt;div&gt;Soma=Soma+P1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="4900" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-5JqvEhSrivZi-c0OQ5a-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calcular=Soma+" vertex="1">
+          <mxGeometry height="60" width="120" x="4900" y="910" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
